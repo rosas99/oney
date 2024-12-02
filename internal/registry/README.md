@@ -1,1 +1,0 @@
-registry to apiserver chassis
